@@ -1,4 +1,4 @@
-# Stock market
+# Stock Market
 Mainly focusing on Elliott's Wave Theory to help determining the market trend and golden ratios to determine price.
 
 - [Stock-market](#stock-market)
